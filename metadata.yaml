@@ -1,0 +1,33 @@
+_repo: Tales-of-Destiny_19017
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Edmund
+    birthdate: 1861
+    deathdate: 1917
+    gutenberg_agent_id: '8408'
+    url: http://www.gutenberg.org/2009/agents/8408
+description: Cover -- Contents.
+gutenberg_issued: '2006-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+- !lcsh 'Storytelling -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Introduction -- The Maid of Jhalnagor. Told by the Rajput Chief --
+  The Hollow Column. Told by the Tax-Collector -- What the Stars Ordained. Told by
+  the Astrologer -- The Spirit Wail. Told by the Merchant -- The Blue Diamonds. Told
+  by the Fakir -- The Tiger of the Pathans. Told by the Afghan General -- Her Mother
+  Love. Told by the Physician -- The Sacred Pickaxe. Told by the Magistrate.
+title: Tales of Destiny
+url: http://www.gutenberg.org/ebooks/19017
